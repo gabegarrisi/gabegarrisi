@@ -18,4 +18,4 @@ This GitHub repository is a collection of my projects, exercises, and learning e
 My goal is to build a strong foundation in software engineering and continuously improve my programming skills through practice and real-world projects.
 This repository represents my learning journey — from my first exercises to more advanced projects as I continue developing my skills.
 
-Thanks for visiting my repository! 
+Thanks for visiting my repository!!
