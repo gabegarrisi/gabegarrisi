@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi,👋 I'm Gabe!
+🎓 First-Year Software Engineering Student
 
-<!--
-**gabegarrisi/gabegarrisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm at the beginning of my journey in software development, learning the fundamentals of programming, problem-solving, and software engineering.
 
-Here are some ideas to get you started:
+This GitHub repository is a collection of my projects, exercises, and learning experiences throughout my first year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   What I'm Studying
+💻 Front-End Development — building interactive and user-friendly web interfaces
+
+🗄️ Data Modeling — understanding how to structure, organize, and manage data
+
+🧩 Algorithms — developing efficient solutions and improving problem-solving skills
+
+🧠 Computational Thinking — learning how to break complex problems into logical and manageable steps
+
+   My Goal
+My goal is to build a strong foundation in software engineering and continuously improve my programming skills through practice and real-world projects.
+This repository represents my learning journey — from my first exercises to more advanced projects as I continue developing my skills.
+
+Thanks for visiting my repository! 
